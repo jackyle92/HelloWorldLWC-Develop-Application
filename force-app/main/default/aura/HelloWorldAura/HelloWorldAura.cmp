@@ -1,0 +1,5 @@
+<aura:component>
+    <div class="high-light">
+        Hello World!!!
+    </div>
+</aura:component>
